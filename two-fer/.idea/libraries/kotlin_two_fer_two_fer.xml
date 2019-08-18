@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kotlin.two-fer.two-fer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/libs/two-fer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

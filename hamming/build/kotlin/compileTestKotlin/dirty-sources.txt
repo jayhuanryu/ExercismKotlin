@@ -1,0 +1,1 @@
+/Users/jayryu/Exercism/kotlin/hamming/src/test/kotlin/HammingTest.kt
