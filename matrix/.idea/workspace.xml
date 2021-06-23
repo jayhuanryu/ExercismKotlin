@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44ef36e3-9ff3-404f-82c8-37eaaca6a966" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectId" id="1uIxjhRIuci0QiPV0lrYBnZ9dv4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Gradle.MatrixTest.extract column from diff widths matrix">
+    <configuration name="MatrixTest.extract column from diff widths matrix" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;MatrixTest.extract column from diff widths matrix&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MatrixTest.extract column from non square matrix" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;MatrixTest.extract column from non square matrix&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MatrixTest.extract column matrix" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;MatrixTest.extract column matrix&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MatrixTest.extract row from matrix" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;MatrixTest.extract row from matrix&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MatrixTest.extract row from non square matrix" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;MatrixTest.extract row from non square matrix&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.MatrixTest.extract column from diff widths matrix" />
+        <item itemvalue="Gradle.MatrixTest.extract column from non square matrix" />
+        <item itemvalue="Gradle.MatrixTest.extract column matrix" />
+        <item itemvalue="Gradle.MatrixTest.extract row from non square matrix" />
+        <item itemvalue="Gradle.MatrixTest.extract row from matrix" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44ef36e3-9ff3-404f-82c8-37eaaca6a966" name="Default Changelist" comment="" />
+      <created>1624367040785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624367040785</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1750" height="336" key="GridCell.Tab.0.bottom" timestamp="1624455896277">
+      <screen x="1920" y="25" width="1792" height="1010" />
+    </state>
+    <state width="1750" height="336" key="GridCell.Tab.0.bottom/0.25.1920.1055/1920.25.1792.1010@1920.25.1792.1010" timestamp="1624455896277" />
+    <state width="1750" height="336" key="GridCell.Tab.0.center" timestamp="1624455896276">
+      <screen x="1920" y="25" width="1792" height="1010" />
+    </state>
+    <state width="1750" height="336" key="GridCell.Tab.0.center/0.25.1920.1055/1920.25.1792.1010@1920.25.1792.1010" timestamp="1624455896276" />
+    <state width="1750" height="336" key="GridCell.Tab.0.left" timestamp="1624455896276">
+      <screen x="1920" y="25" width="1792" height="1010" />
+    </state>
+    <state width="1750" height="336" key="GridCell.Tab.0.left/0.25.1920.1055/1920.25.1792.1010@1920.25.1792.1010" timestamp="1624455896276" />
+    <state width="1750" height="336" key="GridCell.Tab.0.right" timestamp="1624455896277">
+      <screen x="1920" y="25" width="1792" height="1010" />
+    </state>
+    <state width="1750" height="336" key="GridCell.Tab.0.right/0.25.1920.1055/1920.25.1792.1010@1920.25.1792.1010" timestamp="1624455896277" />
+    <state width="1750" height="336" key="GridCell.Tab.1.bottom" timestamp="1624455896277">
+      <screen x="1920" y="25" width="1792" height="1010" />
+    </state>
+    <state width="1750" height="336" key="GridCell.Tab.1.bottom/0.25.1920.1055/1920.25.1792.1010@1920.25.1792.1010" timestamp="1624455896277" />
+    <state width="1750" height="336" key="GridCell.Tab.1.center" timestamp="1624455896277">
+      <screen x="1920" y="25" width="1792" height="1010" />
+    </state>
+    <state width="1750" height="336" key="GridCell.Tab.1.center/0.25.1920.1055/1920.25.1792.1010@1920.25.1792.1010" timestamp="1624455896277" />
+    <state width="1750" height="336" key="GridCell.Tab.1.left" timestamp="1624455896277">
+      <screen x="1920" y="25" width="1792" height="1010" />
+    </state>
+    <state width="1750" height="336" key="GridCell.Tab.1.left/0.25.1920.1055/1920.25.1792.1010@1920.25.1792.1010" timestamp="1624455896277" />
+    <state width="1750" height="336" key="GridCell.Tab.1.right" timestamp="1624455896277">
+      <screen x="1920" y="25" width="1792" height="1010" />
+    </state>
+    <state width="1750" height="336" key="GridCell.Tab.1.right/0.25.1920.1055/1920.25.1792.1010@1920.25.1792.1010" timestamp="1624455896277" />
+    <state x="2482" y="248" width="670" height="676" key="search.everywhere.popup" timestamp="1624369332114">
+      <screen x="1920" y="25" width="1792" height="1010" />
+    </state>
+    <state x="2482" y="248" width="670" height="676" key="search.everywhere.popup/0.25.1920.1055/1920.25.1792.1010@1920.25.1792.1010" timestamp="1624369332114" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/test/kotlin/MatrixTest.kt</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Matrix.kt</url>
+          <line>7</line>
+          <properties>
+            <option name="lambda-ordinal" value="0" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/test/kotlin/MatrixTest.kt</url>
+          <line>83</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Matrix.kt</url>
+          <line>3</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/test/kotlin/MatrixTest.kt</url>
+          <line>71</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/test/kotlin/MatrixTest.kt</url>
+          <line>14</line>
+          <properties class="MatrixTest" method="extract row from matrix">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/test/kotlin/MatrixTest.kt</url>
+          <line>75</line>
+          <properties class="MatrixTest" method="extract column from diff widths matrix">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Remote">
+        <watch expression="it.split(&quot; &quot;).filter { it != &quot;&quot; }" language="kotlin" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

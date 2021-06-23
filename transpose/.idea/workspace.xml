@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2f6e4a7-5733-418f-86c7-69beafe0bdf9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1uLwvFh3efqydSOfYOTe1KQHWdW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Gradle.TransposeTest.two characters in a column">
+    <configuration name="TransposeTest.empty string" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;TransposeTest.empty string&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TransposeTest.two characters in a column" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;TransposeTest.two characters in a column&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TransposeTest.two characters in a row" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;TransposeTest.two characters in a row&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.TransposeTest.two characters in a column" />
+        <item itemvalue="Gradle.TransposeTest.two characters in a row" />
+        <item itemvalue="Gradle.TransposeTest.empty string" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2f6e4a7-5733-418f-86c7-69beafe0bdf9" name="Default Changelist" comment="" />
+      <created>1624458405656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624458405656</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2280" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624458513857">
+      <screen x="1920" y="25" width="1792" height="1010" />
+    </state>
+    <state x="2280" y="189" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1920.1055/1920.25.1792.1010@1920.25.1792.1010" timestamp="1624458513857" />
+    <state x="2553" y="318" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1624458512986">
+      <screen x="1920" y="25" width="1792" height="1010" />
+    </state>
+    <state x="2553" y="318" key="#com.intellij.ide.util.TreeClassChooserDialog/0.25.1920.1055/1920.25.1792.1010@1920.25.1792.1010" timestamp="1624458512986" />
+    <state width="1750" height="336" key="GridCell.Tab.0.bottom" timestamp="1624459831660">
+      <screen x="1920" y="25" width="1792" height="1010" />
+    </state>
+    <state width="1750" height="336" key="GridCell.Tab.0.bottom/0.25.1920.1055/1920.25.1792.1010@1920.25.1792.1010" timestamp="1624459831660" />
+    <state width="1750" height="336" key="GridCell.Tab.0.center" timestamp="1624459831660">
+      <screen x="1920" y="25" width="1792" height="1010" />
+    </state>
+    <state width="1750" height="336" key="GridCell.Tab.0.center/0.25.1920.1055/1920.25.1792.1010@1920.25.1792.1010" timestamp="1624459831660" />
+    <state width="1750" height="336" key="GridCell.Tab.0.left" timestamp="1624459831659">
+      <screen x="1920" y="25" width="1792" height="1010" />
+    </state>
+    <state width="1750" height="336" key="GridCell.Tab.0.left/0.25.1920.1055/1920.25.1792.1010@1920.25.1792.1010" timestamp="1624459831659" />
+    <state width="1750" height="336" key="GridCell.Tab.0.right" timestamp="1624459831660">
+      <screen x="1920" y="25" width="1792" height="1010" />
+    </state>
+    <state width="1750" height="336" key="GridCell.Tab.0.right/0.25.1920.1055/1920.25.1792.1010@1920.25.1792.1010" timestamp="1624459831660" />
+    <state width="1750" height="336" key="GridCell.Tab.1.bottom" timestamp="1624459831662">
+      <screen x="1920" y="25" width="1792" height="1010" />
+    </state>
+    <state width="1750" height="336" key="GridCell.Tab.1.bottom/0.25.1920.1055/1920.25.1792.1010@1920.25.1792.1010" timestamp="1624459831662" />
+    <state width="1750" height="336" key="GridCell.Tab.1.center" timestamp="1624459831661">
+      <screen x="1920" y="25" width="1792" height="1010" />
+    </state>
+    <state width="1750" height="336" key="GridCell.Tab.1.center/0.25.1920.1055/1920.25.1792.1010@1920.25.1792.1010" timestamp="1624459831661" />
+    <state width="1750" height="336" key="GridCell.Tab.1.left" timestamp="1624459831661">
+      <screen x="1920" y="25" width="1792" height="1010" />
+    </state>
+    <state width="1750" height="336" key="GridCell.Tab.1.left/0.25.1920.1055/1920.25.1792.1010@1920.25.1792.1010" timestamp="1624459831661" />
+    <state width="1750" height="336" key="GridCell.Tab.1.right" timestamp="1624459831661">
+      <screen x="1920" y="25" width="1792" height="1010" />
+    </state>
+    <state width="1750" height="336" key="GridCell.Tab.1.right/0.25.1920.1055/1920.25.1792.1010@1920.25.1792.1010" timestamp="1624459831661" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Remote">
+        <watch expression="input.map.{ it.len}" language="kotlin" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
